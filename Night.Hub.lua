@@ -5,7 +5,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
     Title = "Night Hub",
-    SubTitle = "|By TheNight",
+    SubTitle = "| By TheNight",
     TabWidth = 160,
     Size = UDim2.fromOffset(530, 350),
     Acrylic = true,
