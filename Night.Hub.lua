@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/NGAN-NIGHT/Night-Hub-/main/Night.Hub.lua"))()
-local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
-local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/NGAN-NIGHT/Night-Hub-/main/Night.Hub.lua"))()
+local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/NGAN-NIGHT/Night-Hub-/main/Night.Hub.lua"))()
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
     Title = "Night Hub",
